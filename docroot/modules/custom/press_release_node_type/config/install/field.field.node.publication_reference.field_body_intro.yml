@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_body_intro
+    - node.type.publication_reference
+  module:
+    - text
+id: node.publication_reference.field_body_intro
+field_name: field_body_intro
+entity_type: node
+bundle: publication_reference
+label: 'Body Intro'
+description: 'The body intro, also called kicker, stand-first or deck, introduces the page content. It''s often displayed as a bold text, short introduction under the page title. '
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

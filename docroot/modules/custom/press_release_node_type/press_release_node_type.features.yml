@@ -1,0 +1,10 @@
+required:
+  - node.type.publication_reference
+  - core.entity_form_display.node.publication_reference.default
+  - core.entity_view_display.node.publication_reference.default
+  - core.entity_view_display.node.publication_reference.teaser
+  - field.field.node.publication_reference.body
+  - field.field.node.publication_reference.field_body_intro
+  - field.field.node.publication_reference.field_citation_publication_date
+  - field.field.node.publication_reference.field_citation_publisher
+  - field.field.node.publication_reference.field_citation_url

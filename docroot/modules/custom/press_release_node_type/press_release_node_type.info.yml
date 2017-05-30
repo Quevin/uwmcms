@@ -1,0 +1,13 @@
+name: press-release-node-type
+type: module
+core: 8.x
+dependencies:
+  - datetime
+  - field
+  - link
+  - menu_ui
+  - node
+  - path
+  - text
+  - user
+  - workbench_moderation
