@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - lightning_core
+third_party_settings:
+  lightning_core:
+    description: 'May preview site content, such as drafts, before they are released to the public.'
+id: content_reviewer
+label: 'Content Reviewer'
+weight: 6
+is_admin: null

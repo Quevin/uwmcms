@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - lightning_core
+third_party_settings:
+  lightning_core:
+    description: 'May manage site content, media and structure, such as approving drafts, changing menus, configuring blocks, taxonomies and terms, or online forms.'
+id: content_manager
+label: 'Content Manager'
+weight: 7
+is_admin: null

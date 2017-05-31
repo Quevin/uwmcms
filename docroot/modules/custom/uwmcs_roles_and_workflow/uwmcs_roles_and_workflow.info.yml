@@ -1,0 +1,7 @@
+name: 'uwmcs roles and workflow'
+type: module
+core: 8.x
+dependencies:
+  - lightning_core
+  - user
+  - workbench_moderation

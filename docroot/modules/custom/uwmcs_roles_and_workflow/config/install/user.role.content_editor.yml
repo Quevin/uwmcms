@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - lightning_core
+third_party_settings:
+  lightning_core:
+    description: 'May upload media, create pages or edit pages. Changes are marked as "pending," in moderation until approved.'
+id: content_editor
+label: 'Content Editor'
+weight: 5
+is_admin: null

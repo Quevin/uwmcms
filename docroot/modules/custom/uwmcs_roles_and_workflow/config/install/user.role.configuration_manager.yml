@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - lightning_core
+third_party_settings:
+  lightning_core:
+    description: 'May not edit content. May perform health or configuration updates, such as deploying configurations, code and updates, running diagnostics as well as database backup and restores.'
+id: configuration_manager
+label: 'Configuration Manager'
+weight: 4
+is_admin: null
